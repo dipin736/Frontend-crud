@@ -1,5 +1,5 @@
 ## Frontend
-The frontend is built using [technology stack here].
+The frontend is built using react.
 
 ### Features:
 - Feature 1
